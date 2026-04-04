@@ -1,5 +1,4 @@
-{
-  "pytaniaDoGry":[
+[
       {
         "treść": "\\text{Oblicz:} \\\\ \\\\ 5 + 2",
         "odpa": "6", "odpb": "7", "odpc": "8", "odpd": "9",
@@ -426,5 +425,4 @@
       "odpa": "1", "odpb": "2", "odpc": "0", "odpd": "3",
       "poprawna": 0, "poziom": "trudny"
     }
-  ]
-}
+]
