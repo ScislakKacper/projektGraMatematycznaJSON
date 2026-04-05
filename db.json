@@ -406,7 +406,7 @@
     "odpb": "28",
     "odpc": "4",
     "odpd": "20",
-    "poprawna": 1,
+    "poprawna": 0,
     "poziom": "trudny"
   },
   {
@@ -552,7 +552,7 @@
   {
     "tresc": "Oblicz deltę równania:",
     "dzialanie": "x^2 - 5x + 6 = 0",
-    "odpa": "1",
+    "odpa": "10",
     "odpb": "4",
     "odpc": "25",
     "odpd": "1",
@@ -596,7 +596,7 @@
     "odpb": "1",
     "odpc": "0",
     "odpd": "3",
-    "poprawna": 1,
+    "poprawna": 0,
     "poziom": "trudny"
   },
   {
