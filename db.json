@@ -189,7 +189,7 @@
     "tresc": "Podaj wynik:",
     "dzialanie": "576 - 398",
     "odpa": "198", "odpb": "188", "odpc": "178", "odpd": "168",
-    "poprawna": 1, "poziom": "sredni"
+    "poprawna": 2, "poziom": "sredni"
   },
   {
     "tresc": "Oblicz:",
@@ -237,7 +237,7 @@
     "tresc": "Ile wynosi:",
     "dzialanie": "90 \\div 9",
     "odpa": "12", "odpb": "9", "odpc": "10", "odpd": "11",
-    "poprawna": 1, "poziom": "sredni"
+    "poprawna": 2, "poziom": "sredni"
   },
   {
     "tresc": "Oblicz:",
@@ -273,7 +273,7 @@
     "tresc": "Oblicz:",
     "dzialanie": "84 \\div 7",
     "odpa": "14", "odpb": "12", "odpc": "11", "odpd": "10",
-    "poprawna": 0, "poziom": "sredni"
+    "poprawna": 1, "poziom": "sredni"
   },
   {
     "tresc": "Ile wynosi:",
