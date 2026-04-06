@@ -307,9 +307,9 @@
   },
   {
     "tresc": "Podaj wynik:",
-    "dzialanie": "144 - 78",
+    "dzialanie": "144 - 77",
     "odpa": "66", "odpb": "64", "odpc": "65", "odpd": "67",
-    "poprawna": 0, "poziom": "sredni"
+    "poprawna": 3, "poziom": "sredni"
   },
   {
     "tresc": "Oblicz:",
